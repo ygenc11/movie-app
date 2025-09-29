@@ -65,7 +65,7 @@ This project allowed me to practice and apply key React concepts:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movie-app.git
+   git clone https://github.com/ygenc11/movie-app.git
    cd movie-app
    ```
 
@@ -74,12 +74,12 @@ This project allowed me to practice and apply key React concepts:
 Project screenshots (click to view full size). Images are stored in public/images.
 
 <p align="center">
-  <img src="./public/images/img1.png" alt="Home" width="320" />
-  <img src="./public/images/img2.png" alt="Search" width="320" />
-  <img src="./public/images/img3.png" alt="Movie Details" width="320" />
+  <img src="./src/public/images/img1.png" alt="Home" width="320" />
+  <img src="./src/public/images/img2.png" alt="Search" width="320" />
+  <img src="./src/public/images/img3.png" alt="Movie Details" width="320" />
 </p>
 
 <p align="center">
-  <img src="./public/images/img4.png" alt="Watchlist" width="320" />
-  <img src="./public/images/img5.png" alt="Extra" width="320" />
+  <img src="./src/public/images/img4.png" alt="Watchlist" width="320" />
+  <img src="./src/public/images/img5.png" alt="Extra" width="320" />
 </p>
